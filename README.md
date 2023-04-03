@@ -9,8 +9,8 @@
 
 ## Me
 
-<p>My name is Victor Garcia, I've 16 years old and I live in SP - Brazil</p>
-<li>📚 Etec Parque Belém - High School with Technical Qualification in Systems Development</li>
+<p>My name is Victor Garcia, I've 16 years old and I live in Fortaleza - Brazil</p>
+<li>📚 Colégio Farias Brito - High School </li>
 <li>🎓 I’m interested in Blockchain, Solidity, Python, NodeJs, Database, and C++</li> 
 <li>🌱 I’m currently learning things related to web 3.0</li>
 <li>💼 I'm looking for jobs and projects where I can gain more experience</li>
