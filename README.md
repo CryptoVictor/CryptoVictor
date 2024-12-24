@@ -3,7 +3,7 @@
 #### Computer Scientist 💻
 #### I live in Brazil 🇧🇷
 #### I like to dedicate myself to my projects and always be evolving my knowledge so that one day I can do projects that will make the world better 🌎
-#### I started studying programming at 14 	:v:
+#### I started studying programming at 14
 
 ## Me
 
