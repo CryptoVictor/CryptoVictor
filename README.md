@@ -16,7 +16,7 @@
 ## Connect With Me
 
    #### 📫 Email: <a href='mailto:gds.victor09@gmail.com'>gds.victor09@gmail.com</a>
-   #### 📫 Linktree: <a href='https://linktr.ee/cryptov1ct0r'>Crypto Victor</a>
+   #### 📫 Linktree: <a href='https://linktr.ee/cryptov1ct0r'>CryptoVictor</a>
    
   ## My Skills
   
