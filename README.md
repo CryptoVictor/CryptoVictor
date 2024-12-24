@@ -15,22 +15,22 @@
 
 ## Connect With Me
 
-<a href = "https://www.facebook.com/CryptoV1ct0r">
+<a style="visibility: hidden;" href = "https://www.facebook.com/CryptoV1ct0r">
   <img align="center" alt="victor-facebook" height="30" width="40" style="max-width: 100%;" src =                                   "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg">
 </a>
-<a href = "https://www.instagram.com/v1ct0rgarcia/">
+<a style="visibility: hidden;" href = "https://www.instagram.com/v1ct0rgarcia/">
   <img align="center" alt="victor-instagram" height="30" width="40" style="max-width: 100%;" src = 
 "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
 </a>
-<a href = "https://www.youtube.com/c/CryptoVictor07">
+<a style="visibility: hidden;" href = "https://www.youtube.com/c/CryptoVictor07">
   <img align="center" alt="victor-youtube" height="30" width="40" style="max-width: 100%;" src = 
 "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg">
 </a>
-<a href = "https://twitter.com/CryptoV1ct0r">
+<a style="visibility: hidden;" href = "https://twitter.com/CryptoV1ct0r">
   <img align="center" alt="victor-twitter" height="30" width="40" style="max-width: 100%;" src = 
 "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg">
 </a>
-<a href = "https://www.linkedin.com/in/victor-garcia-dos-santos">
+<a style="visibility: hidden;" href = "https://www.linkedin.com/in/victor-garcia-dos-santos">
   <img align="center" alt="victor-twitter" height="30" width="40" style="max-width: 100%;" src = 
 "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
 </a>
