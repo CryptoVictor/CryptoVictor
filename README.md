@@ -1,15 +1,15 @@
 # CryptoVictor 👋
 
-#### Student of the Development Area 💻
+#### Computer Scientist 💻
 #### I live in Brazil 🇧🇷
 #### I like to dedicate myself to my projects and always be evolving my knowledge so that one day I can do projects that will make the world better 🌎
 #### I started studying programming at 14 	:v:
 
 ## Me
 
-<p>My name is Victor Garcia, I've 17 years old and I live in Fortaleza - Brazil</p>
-<li>📚 Colégio Farias Brito - High School </li>
-<li>🎓 I’m interested in Blockchain, Solidity, Python, NodeJs, Database, and C++</li> 
+<p>My name is Victor Garcia, I've 17 years old and I live in São Paulo - Brazil</p>
+<li>📚 Instituto de Tecnologia e Liderança (Inteli) - Computer Science </li>
+<li>🎓 I’m interested in Blockchain and Web3 </li> 
 <li>🌱 I’m currently learning things related to web 3.0</li>
 <li>💼 I'm looking for jobs and projects where I can gain more experience</li>
 
@@ -47,8 +47,6 @@
   <img  align="left"  alt="cplusplus" height="40" width="40" style="max-width: 100%;"  src = 
 "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"></img>
   
-  <img  align="left"  alt="qt" height="40" width="40" style="max-width: 100%;"  src =                                               "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg"></img>
-  
   <img  align="left"  alt="javascript" height="40" width="40" style="max-width: 100%;"  src =                                       "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></img>
   
   <img   align="left"  alt="node-dot-js" height="40" width="40" style="max-width: 100%;" src =                                                                       "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg"></img>
@@ -56,12 +54,6 @@
   <img  align="left"  alt="html" height="40" width="40" style="max-width: 100%;"  src =                                                   "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"></img>
   
   <img  align="left"  alt="css" height="40" width="40" style="max-width: 100%;"  src =                                             "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"></img>
-  
-  <img  align="left"  alt="mongodb" height="40" width="40" style="max-width: 100%;"  src =                                         "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"></img>
-  
-  <img  align="left"  alt="git" height="40" width="40" style="max-width: 100%;"  src =                                               "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"></img>
-  
-  <img  align="left"  alt="windows" height="40" width="40" style="max-width: 100%;"  src =                                         "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></img>
   
   <img  align="left"  alt="blockchain" height="40" width="40" style="max-width: 100%;"  src =                                       "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitcoin.svg"></img>
   
@@ -82,7 +74,7 @@
   <br/>
   🏔️ Travel
   <br/>
-  🤔 Reflect
+  🎮 Games
   
   ## My Stats
    
