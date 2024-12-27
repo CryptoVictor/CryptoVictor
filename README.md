@@ -1,64 +1,47 @@
-# CryptoVictor 👋
 
-#### Computer Scientist 💻
-#### I live in Brazil 🇧🇷
-#### I like to dedicate myself to my projects and always be evolving my knowledge so that one day I can do projects that will make the world better 🌎
-#### I started studying programming at 14
 
-## Me
+<h2> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm CryptoVictor.</h2>
 
-<p>My name is Victor Garcia, I've 17 years old and I live in São Paulo - Brazil</p>
-<li>📚 Instituto de Tecnologia e Liderança (Inteli) - Computer Science </li>
-<li>🎓 I’m interested in Blockchain and Web3 </li> 
-<li>🌱 I’m currently learning things related to web 3.0</li>
-<li>💼 I'm looking for jobs and projects where I can gain more experience</li>
+<h3> 🧑‍💻 &nbsp;About Me </h3>
 
-## Connect With Me
 
-   #### 📫 Email: <a href='mailto:gds.victor09@gmail.com'>gds.victor09@gmail.com</a>
-   #### 📫 Linktree: <a href='https://linktr.ee/cryptov1ct0r'>CryptoVictor</a>
-   
-  ## My Skills
-  
-  <img  align="left"  alt="python" height="40" width="40" style="max-width: 100%;"  src = 
-"https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></img>
+- 🎓 &nbsp; Studying Computer Science at Instituto de Tecnologia e Liderança.
+- 🤔 &nbsp; Exploring new tecnologies.
 
-  <img  align="left"  alt="cplusplus" height="40" width="40" style="max-width: 100%;"  src = 
-"https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"></img>
-  
-  <img  align="left"  alt="javascript" height="40" width="40" style="max-width: 100%;"  src =                                       "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></img>
-  
-  <img   align="left"  alt="node-dot-js" height="40" width="40" style="max-width: 100%;" src =                                                                       "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg"></img>
-  
-  <img  align="left"  alt="html" height="40" width="40" style="max-width: 100%;"  src =                                                   "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"></img>
-  
-  <img  align="left"  alt="css" height="40" width="40" style="max-width: 100%;"  src =                                             "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"></img>
-  
-  <img  align="left"  alt="blockchain" height="40" width="40" style="max-width: 100%;"  src =                                       "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitcoin.svg"></img>
-  
-  <img  align="left"  alt="solidity" height="40" width="40" style="max-width: 100%;"  src =                                         "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg"></img>
-  
-<br/>
+
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<h3> 📊 &nbsp;Statistics</h3>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptovictor&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptovictor&theme=buefy&layout=compact" />
+</a>
+
 <br/>
 
-  ## My Hobbies
-  
-  🚴‍♂️ Sports
-  <br/>
-  💻 Development
-  <br/>
-  📚 Study
-  <br/>
-  💰 Invest
-  <br/>
-  🏔️ Travel
-  <br/>
-  🎮 Games
-  
-  ## My Stats
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoVictor&layout=compact)](https://github.com/CryptoVictor/github-readme-stats)
-  
-  ## Awards
+<h3> 🏆 &nbsp;Awards </h3>
   
 <p dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CryptoVictor" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=CryptoVictor;theme=onedark" style="max-width: 100%;"></a></p>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-garcia-dos-santos/)
+  [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/cryptov1ct0r)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gds.victor15@gmail.com)
