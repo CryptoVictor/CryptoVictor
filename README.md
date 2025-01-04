@@ -47,9 +47,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gds.victor15@gmail.com)
 
 <h3> 😀 &nbsp;Connect with my Inteli Buddy </h3>
-
-<center>
-  <a href="https://github.com/Viniciusibin">
-    <img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/159062806?v=4" />
-  </a>
-</center>
+<br/>
+<a href="https://github.com/Viniciusibin">
+  <img src="https://avatars.githubusercontent.com/u/159062806?v=4" />
+</a>
