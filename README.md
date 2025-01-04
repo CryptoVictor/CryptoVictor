@@ -45,3 +45,11 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-garcia-dos-santos/)
   [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/cryptov1ct0r)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gds.victor15@gmail.com)
+
+<h3> 😀 &nbsp;Connect with my Inteli Buddy </h3>
+
+<center>
+  <a href="https://github.com/Viniciusibin">
+    <img style="border-radius: 10%;" src="https://avatars.githubusercontent.com/u/159062806?v=4" />
+  </a>
+</center>
