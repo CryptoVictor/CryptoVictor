@@ -8,8 +8,9 @@
 - 🎓 &nbsp; Studying Computer Science at Instituto de Tecnologia e Liderança.
 - 🤔 &nbsp; Exploring new tecnologies.
 
+<h3> 🧠 &nbsp;Fun Fact</h3>
 
-
+- 🔎 &nbsp; I love video games and enjoy spending my free time hunting for all achievements. It’s a peculiar trait of mine—no matter the game, I always aim for 100% completion. Even when it gets frustrating, I enjoy the challenge and always have fun in the end.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
