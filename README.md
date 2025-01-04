@@ -40,14 +40,15 @@
   
 <p dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CryptoVictor" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=CryptoVictor;theme=onedark" style="max-width: 100%;"></a></p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 😀 &nbsp;Connect with Me </h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-garcia-dos-santos/)
   [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/cryptov1ct0r)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gds.victor15@gmail.com)
 
-<h3> 😀 &nbsp;Connect with my Inteli Buddy </h3>
-<br/>
-<a href="https://github.com/Viniciusibin">
-  <img src="https://avatars.githubusercontent.com/u/159062806?v=4" />
-</a>
+<h3> 🤝🏻 &nbsp;Connect with Inteli Buddy </h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ibiapina/)
+  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viniciusibin)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vinicius.ibiapina@sou.inteli.edu.br)
+  
