@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm CryptoVictor.</h2>
+![Hello Gif](https://github.com/CryptoVictor/CryptoVictor/blob/main/assets/CryptoVictor.gif)
 
 <h3> 🧑‍💻 &nbsp;About Me </h3>
 
