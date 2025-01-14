@@ -37,10 +37,6 @@
 
 <br/>
 
-<h3> 🏆 &nbsp;Awards </h3>
-  
-<p dir="auto"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CryptoVictor" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=CryptoVictor;theme=onedark" style="max-width: 100%;"></a></p>
-
 <h3> 😀 &nbsp;Connect with Me </h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-garcia-dos-santos/)
