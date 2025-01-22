@@ -19,6 +19,7 @@
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=DEA584)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
