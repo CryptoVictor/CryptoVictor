@@ -5,7 +5,7 @@
 <h3> 🧑‍💻 &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; Studying Computer Science at Instituto de Tecnologia e Liderança.
+- 🎓 &nbsp; Studying Computer Science at Institute of Technology and Leadership (Inteli).
 - 🤔 &nbsp; Exploring new tecnologies.
 
 <h3> 🧠 &nbsp;Fun Fact</h3>
