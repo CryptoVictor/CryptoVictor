@@ -20,11 +20,13 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
 - 🔗 &nbsp;
   ![Bitcoin](https://img.shields.io/badge/-Bitcoin-333333?style=flat&logo=bitcoin&logoColor=F7931A)
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum&logoColor=5A68D6)
