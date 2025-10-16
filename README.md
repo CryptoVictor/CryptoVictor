@@ -30,14 +30,17 @@
 - 🔗 &nbsp;
   ![Bitcoin](https://img.shields.io/badge/-Bitcoin-333333?style=flat&logo=bitcoin&logoColor=F7931A)
   ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum&logoColor=5A68D6)
+  ![Solana](https://img.shields.io/badge/-Solana-333333?style=flat&logo=solana&logoColor=00FFA3)
   ![Cosmos](https://img.shields.io/badge/-Cosmos-333333?style=flat&logo=cosmos&logoColor=326CE5)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
 - 🔧 &nbsp;
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=44A833)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter&logoColor=F37626)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 - 🖼️ &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
