@@ -4,7 +4,6 @@
 
 <h3> 🧑‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Working as a Software Engineer at Picnic.
 - 🎓 &nbsp; Studying Computer Science at Institute of Technology and Leadership (Inteli).
 - 🤔 &nbsp; Exploring new tecnologies.
 
@@ -18,6 +17,7 @@
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
