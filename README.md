@@ -5,7 +5,7 @@
 <h3> 🧑‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at Institute of Technology and Leadership (Inteli).
-- 💼 &nbsp; Working as a Blockchain Engineer at Nexus Labs.
+- 💼 &nbsp; Working as a Quantum Computing Researcher at Inteli.
 - 🤔 &nbsp; Exploring new tecnologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
