@@ -43,6 +43,8 @@
 - 🖼️ &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=00C4CC)
+- ⚛️ &nbsp;
+  ![Qiskit](https://img.shields.io/badge/-qiskit-333333?style=flat&logo=qiskit&logoColor=F7931A)
 
 <h3> 😀 &nbsp;Connect with Me </h3>
 
